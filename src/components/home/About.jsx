@@ -27,7 +27,7 @@ function About() {
             A Warm Dining House With A <span className="gold-gradient">Premium Solapur Soul</span>
           </h2>
           <p className="section-copy mt-8 max-w-2xl">
-            Hotel Atithi brings together pure vegetarian food, graceful interiors and attentive service for families, travellers and celebrations.
+            Hotel Atithi brings together pure vegetarian food, graceful interiors and attentive service for families, travellers and celebrations in Solapur.
           </p>
 
           <div className="mt-10 grid gap-4 rounded-2xl border border-amber-200/10 bg-black/25 p-5 sm:grid-cols-3">

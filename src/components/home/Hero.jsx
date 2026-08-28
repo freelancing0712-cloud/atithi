@@ -26,13 +26,13 @@ function Hero({ onOpenTable, onOpenFood, onOpenBanquet }) {
           </motion.h1>
 
           <motion.h2 initial={{ opacity: 0, y: 60 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2, duration: 1 }} className="mt-8 max-w-3xl text-3xl font-medium leading-[1.2] text-white md:text-5xl lg:text-[3.1rem] xl:text-[3.35rem]">
-            Pure Vegetarian Dining,
+            Solapur's Pure Veg Hotel
             <br />
-            <span className="text-amber-200">Crafted With Occasion.</span>
+            <span className="text-amber-200">& Family Dining Destination.</span>
           </motion.h2>
 
           <motion.p initial={{ opacity: 0, y: 60 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.4, duration: 1 }} className="section-copy mt-10 max-w-2xl">
-            A refined Solapur destination for family meals, curated vegetarian dishes, home delivery requests, and elegant banquet celebrations.
+            Hotel Atithi is a trusted choice for guests searching for the best hotel in Solapur for pure vegetarian dining, family meals, home delivery requests, and elegant banquet celebrations.
           </motion.p>
  
           <motion.div initial={{ opacity: 0, y: 60 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.6, duration: 1 }} className="mt-20 flex flex-wrap gap-5">
