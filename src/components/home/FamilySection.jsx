@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Link } from "react-scroll";
-import tableImage from "../../assets/images/Atithi_Dining_Hall.png";
+import tableImage from "../../assets/images/Atithi_Dining_Hall.jpg";
 
 function FamilySection() {
   return (

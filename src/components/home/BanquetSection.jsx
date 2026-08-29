@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 import Modal from "../common/Modal";
 import BanquetBookingForm from "../forms/BanquetBookingForm";
-import banquetImage from "../../assets/images/Banquet_Hall.png";
+import banquetImage from "../../assets/images/Banquet_Hall.jpg";
 
 function BanquetSection({ availability }) {
   const [isOpen, setIsOpen] = useState(false);

@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Link } from "react-scroll";
-const heroImage = "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=1600&q=80";
+import heroImage from "../../assets/images/interior-atithi.webp";
 
 function Hero({ onOpenTable, onOpenFood, onOpenBanquet }) {
   return (
