@@ -1,5 +1,5 @@
-export const OWNER_WHATSAPP_NUMBER = "918007614614";
-export const OWNER_PHONE_DISPLAY = "+91 8007614614";
+export const OWNER_WHATSAPP_NUMBER = "918805979997";
+export const OWNER_PHONE_DISPLAY = "+91 8805979997";
 
 export const hotelInfo = {
   name: "Hotel Atithi",
